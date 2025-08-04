@@ -415,7 +415,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1 style="color: white; margin: 0;">🐸 Ultra Frog SEO Crawler</h1>
-    <p style="color: white; margin: 0; opacity: 0.9;">by Amal Alexander - Professional SEO Analysis Tool</p>
+    <p style="color: white; margin: 0; opacity: 0.9;">by Vaibhav - Professional SEO Analysis Tool</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -875,6 +875,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 1rem; background: linear-gradient(90deg, #4CAF50, #45a049); border-radius: 10px;">
     <h3 style="color: white; margin: 0;">🐸 Ultra Frog SEO Crawler v2.0</h3>
-    <p style="color: white; margin: 0;">Created by <strong>Amal Alexander</strong> - Faster & More Powerful Than Ever</p>
+    <p style="color: white; margin: 0;">Created by <strong>Vaibhav</strong> - Faster & More Powerful Than Ever</p>
 </div>
 """, unsafe_allow_html=True)
